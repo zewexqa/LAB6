@@ -8,6 +8,7 @@ double deg2rad(double x){
     return x;
 }
 
+
 double rad2deg(double x){
     return x*180/M_PI;
 }
